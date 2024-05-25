@@ -4,4 +4,3 @@ python-docx
 nltk
 scikit-learn
 transformers
-transformerstorch
