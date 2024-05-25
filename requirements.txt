@@ -1,6 +1,7 @@
+streamlit
 PyPDF2
 python-docx
 nltk
 scikit-learn
 transformers
-transformers torch
+transformerstorch
