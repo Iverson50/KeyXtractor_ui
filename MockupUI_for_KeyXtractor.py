@@ -134,9 +134,5 @@ if st.session_state.page == "Home":
     st.write("Made with ❤️ by Team DER-YELL")
 else:
     st.title("About")
-    st.write("KeyXtractor is a powerful tool designed to help you extract meaningful sentences from your documents. "
-             "Whether you upload a PDF, text file, or Word document, our application processes the text and uses "
-             "advanced Natural Language Processing (NLP) techniques to identify and rank the most important sentences. "
-             "This can be incredibly useful for summarizing documents, improving SEO, or simply understanding the key points "
-             "in a large body of text. Made with ❤️ by Team DER-YELL.")
+    st.write("KeyXtractor is a cutting-edge tool developed to streamline the extraction of crucial information from a variety of document formats. Our platform leverages advanced Natural Language Processing (NLP) techniques to sift through PDFs, text files, and Word documents, providing users with succinct summaries and key insights. With a focus on efficiency and accuracy, KeyXtractor assists users in distilling large volumes of text into concise, meaningful content, enhancing productivity and decision-making processes. Developed by a dedicated team of learners(Team DER-YELL), KeyXtractor represents a commitment to innovation and excellence in the field of document analysis and summarization.")
  
