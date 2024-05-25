@@ -1,6 +1,6 @@
 PyPDF2
-pip install python-docx
-pip install nltk
-pip install scikit-learn
-pip install transformers
-pip install transformers torch
+python-docx
+nltk
+scikit-learn
+transformers
+transformers torch
