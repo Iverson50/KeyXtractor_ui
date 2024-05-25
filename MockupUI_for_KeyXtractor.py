@@ -134,8 +134,8 @@ if st.session_state.page == "Home":
     st.write("Made with ❤️ by Team DER-YELL")
 else:
     st.title("About")
-    st.markdown("""<p style='line-height: 2.0;'>KeyXtractor is a cutting-edge tool developed to streamline the extraction of crucial information from a variety of document formats. Our platform leverages advanced Natural Language Processing (NLP) techniques to sift through PDFs, text files, and Word documents, providing users with succinct summaries and key insights.</p>
-                 <p style='line-height: 2.0;'>With a focus on efficiency and accuracy, KeyXtractor assists users in distilling large volumes of text into concise, meaningful content, enhancing productivity and decision-making processes. Developed by a dedicated team of learners (Team DER-YELL), KeyXtractor represents a commitment to innovation and excellence in the field of document analysis and summarization.</p>""",
+    st.markdown("""<p style='line-height: 5.0;'>KeyXtractor is a cutting-edge tool developed to streamline the extraction of crucial information from a variety of document formats. Our platform leverages advanced Natural Language Processing (NLP) techniques to sift through PDFs, text files, and Word documents, providing users with succinct summaries and key insights.</p>
+                 <p style='line-height: 5.0;'>With a focus on efficiency and accuracy, KeyXtractor assists users in distilling large volumes of text into concise, meaningful content, enhancing productivity and decision-making processes. Developed by a dedicated team of learners (Team DER-YELL), KeyXtractor represents a commitment to innovation and excellence in the field of document analysis and summarization.</p>""",
                  unsafe_allow_html=True)
 
  
